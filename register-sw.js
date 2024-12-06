@@ -2,7 +2,7 @@
 /**
  * Distributed with Ultraviolet and compatible with most configurations.
  */
-const stockSW = "https://cdn.jsdelivr.net/npm/@titaniumnetwork-dev/ultraviolet@3.2.10/dist/sw.js";
+const stockSW = "https://github.com/HeyitsFelix/Ultraviolet-filefix/blob/73c6dcabbfaadf31b687768c9e0f2b49a65a471a/sw.js";
 /**
  * List of hostnames that are allowed to run serviceworkers on http://
  */

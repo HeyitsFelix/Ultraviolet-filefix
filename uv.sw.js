@@ -1,5 +1,5 @@
 importScripts('https://cdn.jsdelivr.net/npm/@titaniumnetwork-dev/ultraviolet@3.2.10/dist/uv.bundle.js');
-importScripts('https://cdn.jsdelivr.net/npm/@titaniumnetwork-dev/ultraviolet@3.2.10/dist/uv.config.js');
+importScripts('https://cdn.jsdelivr.net/gh/HeyitsFelix/Ultraviolet-filefix@44e69a449871524d0cf67977bc3313386557f007/uv.config.js');
 
 class UVServiceWorker extends EventEmitter {     
     constructor(config = __uv$config) {

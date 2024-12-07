@@ -7,7 +7,7 @@
  */
 importScripts('https://cdn.jsdelivr.net/npm/@titaniumnetwork-dev/ultraviolet@3.2.10/dist/uv.bundle.js');
 importScripts('https://cdn.jsdelivr.net/npm/@titaniumnetwork-dev/ultraviolet@3.2.10/dist/uv.config.js');
-importScripts(__uv$config.sw || 'https://cdn.jsdelivr.net/gh/HeyitsFelix/Ultraviolet-filefix@a1aad4065a320ca862f1d55d543ee05f9b82e19f/uv.sw.js');
+importScripts(__uv$config.sw || 'https://cdn.jsdelivr.net/gh/HeyitsFelix/Ultraviolet-filefix@91234072ade29accd59192e9df5f775334348a58/uv.sw.js');
 
 const uv = new UVServiceWorker();
 

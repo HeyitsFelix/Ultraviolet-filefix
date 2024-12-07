@@ -2,7 +2,7 @@
 /**
  * Distributed with Ultraviolet and compatible with most configurations.
  */
-const stockSW = "https://cdn.jsdelivr.net/gh/HeyitsFelix/Ultraviolet-filefix@73c6dcabbfaadf31b687768c9e0f2b49a65a471a/sw.js";
+const stockSW = "https://cdn.jsdelivr.net/gh/HeyitsFelix/Ultraviolet-filefix@daa795348af95f413a6c40e92b317ec29e842c9e/sw.js";
 /**
  * List of hostnames that are allowed to run serviceworkers on http://
  */
